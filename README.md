@@ -5,7 +5,6 @@ I enjoy building practical tools, solving problems, and taking ideas from scratc
 
 ## 👨🏾‍💻 About Me
 
-* 🎓 Second-year Computer Science student at WSU
 * 💻 Interested in software development and web development
 * 🧠 Currently focusing on data structures, algorithms, and problem solving
 * 🤝 Open to hackathons, open-source projects, and part-time developer opportunities
