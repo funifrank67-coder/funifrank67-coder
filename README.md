@@ -1,16 +1,13 @@
-# Hi, I'm Funanani 👋🏾
+# Hello, I'm Funi Netshifhefhe👋🏾
 
 I'm a **BSc Computer Science student at Walter Sisulu University**, based in the Eastern Cape, South Africa.
-
 I enjoy building practical tools, solving problems, and taking ideas from scratch to working code. Right now, I'm focused on strengthening my **data structures, algorithms, and software design** skills.
-
 
 ## 👨🏾‍💻 About Me
 
 * 🎓 Second-year Computer Science student at WSU
 * 💻 Interested in software development and web development
 * 🧠 Currently focusing on data structures, algorithms, and problem solving
-* 🚀 I enjoy building projects that solve practical problems
 * 🤝 Open to hackathons, open-source projects, and part-time developer opportunities
 
 ---
@@ -49,42 +46,33 @@ A console-based CRUD application for managing student records.
 
 * Java
 * C++
-* HTML5
-* CSS3
-
+* HTML5 & CSS3
+* 
 **Tools & Platforms**
 
 * Git & GitHub
 * Supabase
 * VS Code
-* IntelliJ IDEA
 * Firebase
 
 **Concepts**
 
 * Data Structures
-* Algorithms
 * Object-Oriented Programming
-* Problem Solving
-
 ---
 
 ## 📚 Currently Learning
-
 I'm working on becoming a stronger programmer by improving how I **think through problems before writing code**.
 
 * Data Structures & Algorithms
 * Software Design
 * Object-Oriented Programming
-* Web Development
-* Git & GitHub
-
 ---
 
 ## 📬 Connect With Me
 
 * 🌐 **Website:** [funihh.me](https://funihh.me)
 * 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-* 💻 **GitHub:** [@funifrank67-coder](https://github.com/funifrank67-coder)
+* 💬 **WhatsApp:** [+27 63 679 6435](https://wa.me/27636796435)
 
 > *Learn. Build. Improve. Repeat.* 🚀
