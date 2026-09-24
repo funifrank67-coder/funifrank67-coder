@@ -64,7 +64,7 @@ I'm working on becoming a stronger programmer by improving how I **think through
 
 ## 📬 Connect With Me
 
-* 🌐 **Website:** [funihh.tech]https://funihh.tech)
+* 🌐 **Website:** [funihh.tech](https://funihh.tech)
 * 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 * 💬 **WhatsApp:** [+27 63 679 6435](https://wa.me/27636796435)
 
