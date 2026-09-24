@@ -46,19 +46,13 @@ A console-based CRUD application for managing student records.
 * Java
 * C++
 * HTML5 & CSS3
-* 
+  
 **Tools & Platforms**
 
 * Git & GitHub
 * Supabase
 * VS Code
 * Firebase
-
-**Concepts**
-
-* Data Structures
-* Object-Oriented Programming
----
 
 ## 📚 Currently Learning
 I'm working on becoming a stronger programmer by improving how I **think through problems before writing code**.
